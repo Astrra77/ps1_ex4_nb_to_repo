@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: titanic-q4
+Version: 0.1.0
+Summary: PS1 Exercise 4: modular Titanic notebook analysis
+Requires-Python: >=3.10
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: seaborn>=0.12
+Requires-Dist: scikit-learn>=1.3
