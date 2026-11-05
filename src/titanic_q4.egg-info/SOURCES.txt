@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/titanic_q4/__init__.py
+src/titanic_q4/data.py
+src/titanic_q4/features.py
+src/titanic_q4/model.py
+src/titanic_q4/plots.py
+src/titanic_q4.egg-info/PKG-INFO
+src/titanic_q4.egg-info/SOURCES.txt
+src/titanic_q4.egg-info/dependency_links.txt
+src/titanic_q4.egg-info/requires.txt
+src/titanic_q4.egg-info/top_level.txt
+tests/test_titanic_q4.py
